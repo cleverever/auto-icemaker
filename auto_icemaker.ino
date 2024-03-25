@@ -8,8 +8,8 @@ const int SERVO_PIN = 5;
 const bool INVERT_WEIGHT = true;
 const long ON_THRESHOLD = 300000;
 const long OFF_THRESHOLD = 100000;
-const int SERVO_ON_POS = 135;
-const int SERVO_OFF_POS = 180;
+const int SERVO_ON_POS = 140;
+const int SERVO_OFF_POS = 90;
 
 const int LOOP_DELAY = 1000;
 const int SAFETY_COUNT = 5;
