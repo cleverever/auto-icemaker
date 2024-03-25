@@ -7,5 +7,23 @@ The apartment I am leasing has a fridge which lacks a fully automatic ice maker.
 3. Set servo angle to pull ice maker lever down or up to turn it on or off respectively.
 4. Repeat at long intervals to reduce power usage.
 
-# Libraries Used
+# Libraries
 This project makes use of [Bogdan Necula's HX711 library](https://github.com/bogde/HX711) and [Arduino's built-in servo library](https://github.com/arduino-libraries/Servo).
+
+# Materials
+## Power and computation
+- Arduino Uno
+- 9V battery + holder
+- Breadboard
+
+## Weight measurement
+- HX711 load cell amplifier
+- 10kg load cell
+- 2x plastic sheet (9" X 8")
+- 4x M4 screw
+- 4x #8 spacer
+
+## Ice maker switch
+- 20kg servo + screws
+- 14 gauge wire
+- Velcro fastener
