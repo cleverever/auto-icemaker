@@ -11,6 +11,8 @@ The apartment I am leasing has a fridge which lacks a fully automatic ice maker.
 This project makes use of [Bogdan Necula's HX711 library](https://github.com/bogde/HX711) and [Arduino's built-in servo library](https://github.com/arduino-libraries/Servo).
 
 # Materials
+<img src="/materials.jpg" alt="Materials" width="500" height="auto">
+
 ## Power and computation
 - Arduino Uno
 - 9V battery + holder
