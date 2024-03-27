@@ -1,3 +1,6 @@
+# Demonstration
+https://drive.google.com/file/d/1CYuwc4-rT-J-S675lsqDUMO4tuT4ZQU4/view?usp=sharing
+
 # Background
 The apartment I am leasing has a fridge which lacks a fully automatic ice maker. It must be manually switched on and off with a lever which means that if you forget to turn it on, there won't be enough ice or if you forget to turn it off, the ice bin may overflow and spill into the freezer. I figure I could save myself a lot of trouble by converting the ice maker from semi-automatic to fully-automatic and that it wouldn't be too difficult or costly.
 
